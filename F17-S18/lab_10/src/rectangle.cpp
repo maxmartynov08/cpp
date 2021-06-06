@@ -1,3 +1,0 @@
-#include "rectangle.h"
-
-// TODO

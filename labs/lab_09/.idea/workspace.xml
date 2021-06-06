@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="lab_09" targetName="obj" />
+      <config projectName="lab_09" targetName="lab_09" />
+      <config projectName="lab_09" targetName="all" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a9f90b3-3ea8-42ef-b249-093612631486" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/include/Circle.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/include/Circle.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/Figure.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/include/Figure.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_09" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Circle.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Circle.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Figure.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Figure.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Rectangle.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Rectangle.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Scheme.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Scheme.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/main.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Circle.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Circle.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Figure.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figure.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rectangle.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rectangle.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Scheme.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scheme.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pgygGSlfTpluPCRydgrSQvgkg7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="Makefile Application.all">
+    <configuration name="all" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab_09" TARGET_NAME="all" CONFIG_NAME="all" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab_09" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab_09" TARGET_NAME="lab_09" CONFIG_NAME="lab_09" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="obj" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab_09" TARGET_NAME="obj" CONFIG_NAME="obj" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Makefile Application.all" />
+      <item itemvalue="Makefile Application.lab_09" />
+      <item itemvalue="Makefile Application.obj" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a9f90b3-3ea8-42ef-b249-093612631486" name="Default Changelist" comment="" />
+      <created>1615619140683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615619140683</updated>
+      <workItem from="1615619145601" duration="12673000" />
+      <workItem from="1615668390484" duration="1135000" />
+      <workItem from="1616004883694" duration="3999000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
